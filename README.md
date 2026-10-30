@@ -55,3 +55,8 @@ Skrypty należy uruchamiać z katalogu głównego repozytorium. Wykresy zapisywa
 4. `wykres4_mediana_cena_za_m2_miasta.png`: mediana ceny za m² w 15 miastach, test Kruskala–Wallisa (zbiór 1)
 5. `wykres5_dlugosc_tekstow.png`: długość `title` i `shortDescription` (zbiór 2)
 6. `wykres6_najczestsze_slowa.png`: 15 najczęstszych słów bez stopwords (zbiór 2)
+
+## Licencje danych
+
+(Zbiór1)Licencja: Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), zgodnie z informacją na stronie zbioru.
+(Zbiór2)Licencja: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), zgodnie z metadanymi zbioru na Hugging Face. Autor: Logiover.
