@@ -55,7 +55,3 @@ Skrypty należy uruchamiać z katalogu głównego repozytorium. Wykresy zapisywa
 4. `wykres4_mediana_cena_za_m2_miasta.png`: mediana ceny za m² w 15 miastach, test Kruskala–Wallisa (zbiór 1)
 5. `wykres5_dlugosc_tekstow.png`: długość `title` i `shortDescription` (zbiór 2)
 6. `wykres6_najczestsze_slowa.png`: 15 najczęstszych słów bez stopwords (zbiór 2)
-
-## Licencje danych
-
-Licencje obu zbiorów należy sprawdzić na stronach źródłowych (linki powyżej).
